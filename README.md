@@ -25,4 +25,26 @@ Näide *commitite* ülevaate lehest ühes koodihoidlas:
     - Githubi issues, pull requests – probleemide lahendamise kiirus ja kvaliteet. 
 - koostööd
     - code review, ehk teise õppija (antud juhul) koodi ülevaatus ja kommentaarid on viisid, mille abil saab mõõta õppija osalemist koostöös
+- kogemuste jälgimine
+    - Githubi issues trendid, commitite kvaliteed, commitite koguse jälgimine – kuidas õppija ülesannete täitmine ajas muutub
+
+## Ennustamine:
+GitHub Insights on funktsioon, mis pakub analüüse ja statistikat GitHubi repos ning organisatsioonides toimuva tegevuse kohta. Selle eesmärk on aidata tiimidel ja projektijuhtidel paremini mõista, kuidas projekt areneb, kes panustavad ja millised valdkonnad vajavad tähelepanu. See võib olla eriti kasulik suuremate tiimide ja projektide puhul.
+
+GitHub Insightsi peamised omadused:
+
+	1.	Pull Request ja Issue analüüs:
+        - Näitab, kui kiiresti pull requestid ja issue’id lahendatakse.
+        - Aitab tuvastada nö ummikuid ja ülekoormust.
+	2.	Panustamise analüüs:
+        - Näitab, kes on kõige aktiivsemad.
+        - Pakub ülevaate commit’ide ja koodi muutuste trendidest ajas.
+	3.	Koostöö jälgimine:
+        - Tuvastab, kuidas tiim koostööd teeb, milliseid koodiosi sageli muudetakse ning kus võib tekkida konflikte.
+	4.	Kvaliteedi indikaatorid:
+        - Aitab tuvastada koodi kvaliteediprobleeme, näiteks palju lahtiseid pull requeste või ülevaatamata koodi.
+	5.	Turvalisuse jälgimine:
+        - Näitab, kas projektis on haavatavusi või avastatud probleeme, mida tuleb lahendada.
+	6.	Activity Dashboard (Aktiivsuse ülevaade):
+        - Kokkuvõtted repo aktiivsuse kohta (kui palju ja mis tüüpi tegevusi toimub).
 
