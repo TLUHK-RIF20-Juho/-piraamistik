@@ -6,6 +6,9 @@ Programmeerimine on väga indiviuaalne selle poolest kuidas, kus ja mis ajaga ke
 Iseõppijatel, kõrge enesejuhitud õppija tasemega ei ole ilmselt see probleemiks, sest nad tegelevad sellega omal initsiatiivil, eraldades sellele omast huvist lähtuvalt rohkem aega, küll aga esineb probleem mu enda töös nähaolevalt nö tavapärasel moel koolis käivatel ja tundides õppivatel õppijatel.
 Probleemi annaks lahendada, suunates õppijaid omal käel rohkem tööd tegema.
 
+## Sihtgrupp:
+Programmeerimiserialade üliõpilased ja õpilased.
+
 ## Kuidas:
 Võttes kasutusele versioonihaldussüsteemi git, sellega seotud kaugrepositooriumi Github ja muutes õppimisvoo nende abil *commititel* baseeruvaks, on võimalik muuta õppimine pidevaks ning mõõta panustatud aja, *commitite* hulga, commitite kvaliteedi ja Github *issues*  (tõstatatud probleemid, siin kontekstis ülesanded), *pull requests* (lahendatud probleemide saatmine koodi peaharuga liitmiseks) trendide näitajate abil õppijate panustamist ja tulemuslikkust ning on võimalik seeläbi korraldada õpetamistegevust ning ülesandeid.
 
