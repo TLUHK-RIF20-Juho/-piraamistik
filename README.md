@@ -47,4 +47,5 @@ GitHub Insightsi peamised omadused:
         - Näitab, kas projektis on haavatavusi või avastatud probleeme, mida tuleb lahendada.
 	6.	Activity Dashboard (Aktiivsuse ülevaade):
         - Kokkuvõtted repo aktiivsuse kohta (kui palju ja mis tüüpi tegevusi toimub).
+![GitHub Insights](https://docs.github.com/assets/cb-68418/mw-1440/images/help/issues/burnup-example.webp)
 
