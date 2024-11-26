@@ -33,19 +33,19 @@ GitHub Insights on funktsioon, mis pakub analüüse ja statistikat GitHubi repos
 
 GitHub Insightsi peamised omadused:
 
-	1.	Pull Request ja Issue analüüs:
-        - Näitab, kui kiiresti pull requestid ja issue’id lahendatakse.
-        - Aitab tuvastada nö ummikuid ja ülekoormust.
-	2.	Panustamise analüüs:
-        - Näitab, kes on kõige aktiivsemad.
-        - Pakub ülevaate commit’ide ja koodi muutuste trendidest ajas.
-	3.	Koostöö jälgimine:
-        - Tuvastab, kuidas tiim koostööd teeb, milliseid koodiosi sageli muudetakse ning kus võib tekkida konflikte.
-	4.	Kvaliteedi indikaatorid:
-        - Aitab tuvastada koodi kvaliteediprobleeme, näiteks palju lahtiseid pull requeste või ülevaatamata koodi.
-	5.	Turvalisuse jälgimine:
-        - Näitab, kas projektis on haavatavusi või avastatud probleeme, mida tuleb lahendada.
-	6.	Activity Dashboard (Aktiivsuse ülevaade):
+1.	Pull Request ja Issue analüüs:
+    - Näitab, kui kiiresti pull requestid ja issue’id lahendatakse.
+    - Aitab tuvastada nö ummikuid ja ülekoormust.
+2.	Panustamise analüüs:
+    - Näitab, kes on kõige aktiivsemad.
+    - Pakub ülevaate commit’ide ja koodi muutuste trendidest ajas.
+3.	Koostöö jälgimine:
+    - Tuvastab, kuidas tiim koostööd teeb, milliseid koodiosi sageli muudetakse ning kus võib tekkida konflikte.
+4.	Kvaliteedi indikaatorid:
+    - Aitab tuvastada koodi kvaliteediprobleeme, näiteks palju lahtiseid pull requeste või ülevaatamata koodi.
+5.	Turvalisuse jälgimine:
+    - Näitab, kas projektis on haavatavusi või avastatud probleeme, mida tuleb lahendada.
+6.	Activity Dashboard (Aktiivsuse ülevaade):
         - Kokkuvõtted repo aktiivsuse kohta (kui palju ja mis tüüpi tegevusi toimub).
 ![GitHub Insights](https://docs.github.com/assets/cb-68418/mw-1440/images/help/issues/burnup-example.webp)
 
