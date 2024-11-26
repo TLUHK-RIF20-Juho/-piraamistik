@@ -7,11 +7,12 @@ Iseõppijatel, kõrge enesejuhitud õppija tasemega ei ole ilmselt see probleemi
 Probleemi annaks lahendada, suunates õppijaid omal käel rohkem tööd tegema.
 
 ## Kuidas:
-Võttes kasutusele versioonihaldussüsteemi git, sellega seotud kaugrepositooriumi Github ja muutes õppimisvoo nende abil *commititel* baseeruvaks, on võimalik muuta õppimine pidevaks ning mõõta panustatud aja, *commitite* hulga, commitite kvaliteedi ja Github *issues*  (tõstatatud probleemid, siin kontekstis ülesanded), *pull requests* (lahendatud probleemide saatmine koodi peaharuga liitmiseks) trendide näitajate abil õppijate panistamist ning on võimalik seeläbi korraldada õpetamistegevust ning ülesandeid.
+Võttes kasutusele versioonihaldussüsteemi git, sellega seotud kaugrepositooriumi Github ja muutes õppimisvoo nende abil *commititel* baseeruvaks, on võimalik muuta õppimine pidevaks ning mõõta panustatud aja, *commitite* hulga, commitite kvaliteedi ja Github *issues*  (tõstatatud probleemid, siin kontekstis ülesanded), *pull requests* (lahendatud probleemide saatmine koodi peaharuga liitmiseks) trendide näitajate abil õppijate panustamist ja tulemuslikkust ning on võimalik seeläbi korraldada õpetamistegevust ning ülesandeid.
 
 ## Mis on commit?
-*Commitil* puudub eesti keeles hea vaste. Vallaste sõnastik pakub vasteks **kehtestama**, kuid see ei ole väga suupärane, sestap kasutan siin edaspidi terminit *commit*.
-*Commit* on tarkvaraarenduses versioonihalduses ühe loogilise muudatusühiku nö käiku laskmine (kehtestamine) – muudad koodis mingit loogilist osa, mingit funktsiooni, parandad mingi vea ja seejärel lisad selle koodi põhiosasse. Igale commitile lisatakse kirjalik selgitus, mida see *commit* teeb. Sellest jääb maha nii ajajoon kui ka kontrollitav sisukvaliteet.
+*Commitil* puudub eesti keeles hea vaste. Vallaste sõnastik pakub vasteks **kehtestama**, kuid see ei ole väga suupärane, sestap kasutan siin edaspidi terminit *commit*.  
+*Commit* on tarkvaraarenduses versioonihalduses ühe loogilise muudatusühiku nö käiku laskmine (kehtestamine) – muudad koodis mingit loogilist osa, mingit funktsiooni, parandad mingi vea ja seejärel lisad selle koodi põhiosasse. Igale commitile lisatakse kirjalik selgitus, mida see *commit* teeb. Sellest jääb maha nii ajajoon kui ka kontrollitav sisukvaliteet.  
+Üks ülesanne võib koosneda tervest hulgast commititest, mis muudab ülesandele kulutatud ressursi mõõtmise lihtsamaks ja tulemuste kvaliteedi ja probleemide leidmise paremini jälgitavaks.
 
 Näide *commitite* ülevaate lehest ühes koodihoidlas:
 ![Commitite ülevaade](./img/commits.png)
