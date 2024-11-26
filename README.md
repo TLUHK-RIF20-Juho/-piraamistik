@@ -30,8 +30,8 @@ Näide *commitite* ülevaate lehest ühes koodihoidlas:
 - kogemuste jälgimine
     - Githubi *issues* trendid, *commitite* kvaliteed, *commitite* koguse jälgimine – kuidas õppija ülesannete täitmine ajas muutub
 
-## Ennustamine:
-GitHub Insights on funktsioon, mis pakub analüüse ja statistikat GitHubi repos ehk koodilaos ning organisatsioonides toimuva tegevuse kohta. Selle eesmärk on aidata tiimidel ja projektijuhtidel paremini mõista, kuidas projekt areneb, kes panustavad ja millised valdkonnad vajavad tähelepanu. See võib olla eriti kasulik suuremate tiimide ja projektide puhul.
+## Analüüs:
+GitHub Insights on funktsioon, mis pakub analüüse ja statistikat GitHubi repos ehk koodilaos ning organisatsioonides toimuva tegevuse kohta. Selle eesmärk on aidata tiimidel ja projektijuhtidel paremini mõista, kuidas projekt areneb, kes panustavad ja millised valdkonnad vajavad tähelepanu. Õpetajale annab see aga tagasiside, iga õppija õpiprotsessi kohta.
 
 GitHub Insightsi peamised omadused:
 
@@ -51,3 +51,6 @@ GitHub Insightsi peamised omadused:
         - Kokkuvõtted repo aktiivsuse kohta (kui palju ja mis tüüpi tegevusi toimub).
 ![GitHub Insights](https://docs.github.com/assets/cb-68418/mw-1440/images/help/issues/burnup-example.webp)
 
+Vastavalt oma vajadustele, saab aga hakata kogunenud tegevusjäljest pärima täpsemaid õpitlulemuste ja tegevuste mõjutamiseks kasulikke näitajaid.  
+Ise näen, et esimeses etapis õppijate panustamise ja selle alusel tagasisidestamise võimalust.  
+Järgmised sammud on püstitatud ülesannete vaatlus, kuidas erinevad ülesanded lahendavad sama probleemi, mis võiks aidata parema õppeprotsessi loomisel.
